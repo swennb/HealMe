@@ -1,0 +1,9 @@
+main: com.github.swennb.main
+name: Healme
+version: 1.5.2
+description: Heal yourself or others
+commands:
+  healme:
+    description: Heal yourself or others
+  hme:
+    description: Heal yourself or others
